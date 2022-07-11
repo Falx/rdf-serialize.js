@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "@comunica/actor-rdf-serialize-n3": {
+      "signature": "27cc6158405aa0ae8894c9e1a7b3cb19",
+      "file": true,
+      "replaced": "^2.0.1"
+    }
+  }
+}
